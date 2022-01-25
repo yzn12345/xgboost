@@ -1,9 +1,9 @@
 [submodule "dmlc-core"]
 	path = dmlc-core
-	url = https://github.com/dmlc/dmlc-core
+	url = https://hub.fastgit.xyz/dmlc/dmlc-core.git
 [submodule "rabit"]
 	path = rabit
-	url = https://github.com/dmlc/rabit
+	url = https://hub.fastgit.xyz/dmlc/rabit.git
 [submodule "cub"]
 	path = cub
-	url = https://github.com/NVlabs/cub
+	url = https://hub.fastgit.xyz/NVlabs/cub.git
